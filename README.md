@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/ryansamaeian" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="ryansamaeian" height="30" width="40" /></a>
-<a href="https://dev.to/ryan-samaeian" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ryan-samaeian" height="30" width="40" /></a>
+<a href="https://dev.to/ryansamaeian" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ryansamaeian" height="30" width="40" /></a>
 <a href="https://twitter.com/mrstarbors" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mrstarbors" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/starbors" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="starbors" height="30" width="40" /></a>
 </p>
